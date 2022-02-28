@@ -15,5 +15,5 @@ Pasos
 2. Ejecute el proyecto "FacturaStoreApi" en un entorno con ASP.NET Core
 3. Probar los servicios con POSTMAN
 4. Instale Angula y Node
-5. En el proyecto "Factura" y en scr/app/servicios/api/FacturacordService.ts cambie la direccion del puerto que corresponda en readonly APIUrl = "https://localhost:7250/api";
+5. En el proyecto "Factura" y en scr/app/servicios/api/FacturacordService.ts cambie la direccion del puerto que corresponda en readonly APIUrl;
 6. Ejecute poyecto en angular "Factura"
