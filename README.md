@@ -12,8 +12,9 @@ Prerrequisitos
 
 Pasos
 1. Cree una base de datos en MongoDB con "DatabaseName": "FacturaStore" y "FacturasCollectionName": "Facturas".
-2. Ejecute el proyecto "FacturaStoreApi" en un entorno con ASP.NET Core
-3. Probar los servicios con POSTMAN
-4. Instale Angula y Node
-5. En el proyecto "Factura" y en scr/app/servicios/api/FacturacordService.ts cambie la direccion del puerto que corresponda en readonly APIUrl;
-6. Ejecute poyecto en angular "Factura"
+2. Instalar los siguientes complementos en ASP.NET: Install-Package NETCore.MailKit
+3. Ejecute el proyecto "FacturaStoreApi" en un entorno con ASP.NET Core
+4. Probar los servicios con POSTMAN
+5. Instale Angula y Node
+6. En el proyecto "Factura" y en scr/app/servicios/api/FacturacordService.ts cambie la direccion del puerto que corresponda en readonly APIUrl;
+7. Ejecute poyecto en angular "Factura"
