@@ -16,5 +16,6 @@ Pasos
 3. Ejecute el proyecto "FacturaStoreApi" en un entorno con ASP.NET Core
 4. Probar los servicios con POSTMAN
 5. Instale Angula y Node
-6. En el proyecto "Factura" y en scr/app/servicios/api/FacturacordService.ts cambie la direccion del puerto que corresponda en readonly APIUrl;
-7. Ejecute poyecto en angular "Factura"
+6. Descargar el codigo del frontend en https://github.com/ivandaza04/Factura.git
+7. En el proyecto "Factura" y en scr/app/servicios/api/FacturacordService.ts cambie la direccion del puerto que corresponda en readonly APIUrl;
+8. Ejecute poyecto en angular "Factura"
